@@ -1,5 +1,14 @@
+
+
 .App{
-  width: 100%;
+padding:40px;
+height: auto;
+
+}
+
+
+
+.gridItems{
   display: flex;
   justify-content: flex-start;
   flex-wrap: wrap;

@@ -1,15 +1,16 @@
 .card{
-    width: 33%;
+    width: 32%;
     background-color: #fff;
     color: #495057;
     border-radius: 4px;
-    box-shadow: 0px 10px 12px 0 rgba(0,0,0,0.02);
+    box-shadow: 0px 10px 12px 0 rgba(0,0,0,0.05);
     box-sizing: border-box;
     padding: 20px;
+    margin: 10px 4px;
 }
 
 .card:hover{
-    box-shadow: 0px 10px 14px 0 rgba(0,0,0,0.04);
+    box-shadow: 0px 10px 14px 0 rgba(0,0,0,0.08);
 
 }
 
