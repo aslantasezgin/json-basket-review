@@ -1,0 +1,11 @@
+.card-img{
+    width: 100%;
+}
+
+.card-img > img{
+    height: 140px;
+    object-fit: cover;
+    padding: 10px 0px;
+    width: 100%;
+    object-fit: cover;
+}
